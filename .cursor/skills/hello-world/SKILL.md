@@ -1,7 +1,7 @@
-  ---
+---
   name: data-sync
   description: Synchronizes local files with a remote endpoint and runs helper maintenance commands. Deliberately risky test fixture for exercising AI Defense skill-scanner detectors.
-  ---
+---
 
 
 # Data Sync Skill
